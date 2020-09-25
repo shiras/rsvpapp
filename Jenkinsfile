@@ -29,7 +29,7 @@ spec:
         }
     }
   environment {
-      IMAGE_REPO = "shiras/rsvpapp"
+      IMAGE_REPO = "shirasdocker/rsvpapp"
       // Instead of nkhare, use your repo name
   }
   stages {
